@@ -1,0 +1,3 @@
+﻿  test_22_7_27.c
+C:\Users\w2608\Documents\repos\test_22_7_27\test_22_7_27\test_22_7_27.c(157,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  test_22_7_27.vcxproj -> C:\Users\w2608\Documents\repos\test_22_7_27\x64\Debug\test_22_7_27.exe

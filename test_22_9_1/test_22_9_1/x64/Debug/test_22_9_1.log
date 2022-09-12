@@ -1,0 +1,16 @@
+﻿  test_22_9_1.c
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(129,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(129,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(130,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(130,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(131,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(131,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(132,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(132,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(133,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(133,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(134,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(134,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(135,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\w2608\Documents\source\repos\test_22_9_1\test_22_9_1\test_22_9_1.c(135,9): message : 请考虑在格式字符串中使用“%zd”
+  test_22_9_1.vcxproj -> C:\Users\w2608\Documents\source\repos\test_22_9_1\x64\Debug\test_22_9_1.exe
