@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\w2608\Documents\source\repos\the mean of the integer\the mean of the integer\test.c(8,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  the mean of the integer.vcxproj -> C:\Users\w2608\Documents\source\repos\the mean of the integer\x64\Debug\the mean of the integer.exe
