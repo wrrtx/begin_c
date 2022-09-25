@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\w2608\Documents\source\repos\centimeters are converted to feet and inches\centimeters are converted to feet and inches\test.c(22,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\w2608\Documents\source\repos\centimeters are converted to feet and inches\centimeters are converted to feet and inches\test.c(23,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  centimeters are converted to feet and inches.vcxproj -> C:\Users\w2608\Documents\source\repos\centimeters are converted to feet and inches\x64\Debug\centimeters are converted to feet and inches.exe
