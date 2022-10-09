@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\wrrtx\Documents\source\repos\Floating-point division\Floating-point division\test.c(7,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Floating-point division.vcxproj -> C:\Users\wrrtx\Documents\source\repos\Floating-point division\x64\Debug\Floating-point division.exe
