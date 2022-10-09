@@ -1,0 +1,6 @@
+﻿  test.c
+C:\Users\wrrtx\Documents\source\repos\Checked baggage\Checked baggage\test.c(10,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wrrtx\Documents\source\repos\Checked baggage\Checked baggage\test.c(15,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wrrtx\Documents\source\repos\Checked baggage\Checked baggage\test.c(20,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wrrtx\Documents\source\repos\Checked baggage\Checked baggage\test.c(25,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Checked baggage.vcxproj -> C:\Users\wrrtx\Documents\source\repos\Checked baggage\x64\Debug\Checked baggage.exe
