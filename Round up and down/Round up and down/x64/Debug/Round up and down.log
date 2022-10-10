@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\wrrtx\Documents\source\repos\Round up and down\Round up and down\test.c(28,37): warning C4013: “ceil”未定义；假设外部返回 int
+  Round up and down.vcxproj -> C:\Users\wrrtx\Documents\source\repos\Round up and down\x64\Debug\Round up and down.exe
