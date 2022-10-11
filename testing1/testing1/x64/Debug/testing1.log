@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\wrrtx\Documents\source\repos\testing1\testing1\test.c(431,10): error C2057: 应输入常量表达式
+C:\Users\wrrtx\Documents\source\repos\testing1\testing1\test.c(431,11): error C2466: 不能分配常量大小为 0 的数组
+C:\Users\wrrtx\Documents\source\repos\testing1\testing1\test.c(431,6): error C2133: “arr”: 未知的大小
