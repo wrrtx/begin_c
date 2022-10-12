@@ -1,0 +1,6 @@
+﻿  test_22_10_12.c
+C:\Users\wrrtx\Documents\source\repos\test_22_10_12\test_22_10_12\test_22_10_12.c(52,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\wrrtx\Documents\source\repos\test_22_10_12\test_22_10_12\test_22_10_12.c(52,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\wrrtx\Documents\source\repos\test_22_10_12\test_22_10_12\test_22_10_12.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\wrrtx\Documents\source\repos\test_22_10_12\test_22_10_12\test_22_10_12.c(53,9): message : 请考虑在格式字符串中使用“%zd”
+  test_22_10_12.vcxproj -> C:\Users\wrrtx\Documents\source\repos\test_22_10_12\x64\Debug\test_22_10_12.exe
