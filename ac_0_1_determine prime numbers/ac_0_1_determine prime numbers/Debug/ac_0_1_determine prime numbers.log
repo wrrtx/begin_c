@@ -1,0 +1,4 @@
+﻿  test.c
+  test.cpp
+Debug\test.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  ac_0_1_determine prime numbers.vcxproj -> C:\Users\wrrtx\Documents\source\repos\question\ac_nowcoder\ac_0_1_determine prime numbers\Debug\ac_0_1_determine prime numbers.exe

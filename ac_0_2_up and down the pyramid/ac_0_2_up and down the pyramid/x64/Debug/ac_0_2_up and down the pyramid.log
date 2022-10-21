@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\wrrtx\Documents\source\repos\question\ac_nowcoder\ac_0_2_up and down the pyramid\ac_0_2_up and down the pyramid\test.c(7,6): warning C4101: “x”: 未引用的局部变量
+  ac_0_2_up and down the pyramid.vcxproj -> C:\Users\wrrtx\Documents\source\repos\question\ac_nowcoder\ac_0_2_up and down the pyramid\x64\Debug\ac_0_2_up and down the pyramid.exe
