@@ -1,0 +1,8 @@
+﻿  test.c
+C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_12_drop the ball from high altitude\pta_03_7_12_drop the ball from high altitude\test.c(20,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_12_drop the ball from high altitude\pta_03_7_12_drop the ball from high altitude\test.c(21,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_12_drop the ball from high altitude\pta_03_7_12_drop the ball from high altitude\test.c(22,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_12_drop the ball from high altitude\pta_03_7_12_drop the ball from high altitude\test.c(26,14): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_12_drop the ball from high altitude\pta_03_7_12_drop the ball from high altitude\test.c(27,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_12_drop the ball from high altitude\pta_03_7_12_drop the ball from high altitude\test.c(8,21): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  pta_03_7_12_drop the ball from high altitude.vcxproj -> C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_12_drop the ball from high altitude\x64\Debug\pta_03_7_12_drop the ball from high altitude.exe
