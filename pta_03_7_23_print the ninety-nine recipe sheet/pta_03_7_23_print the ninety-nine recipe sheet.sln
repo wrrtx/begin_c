@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pta_03_7_23_print the ninety-nine recipe sheet", "pta_03_7_23_print the ninety-nine recipe sheet\pta_03_7_23_print the ninety-nine recipe sheet.vcxproj", "{BC6CB7A1-C48F-4FAB-BA26-68869423E560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6CB7A1-C48F-4FAB-BA26-68869423E560}.Debug|x64.ActiveCfg = Debug|x64
+		{BC6CB7A1-C48F-4FAB-BA26-68869423E560}.Debug|x64.Build.0 = Debug|x64
+		{BC6CB7A1-C48F-4FAB-BA26-68869423E560}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC6CB7A1-C48F-4FAB-BA26-68869423E560}.Debug|x86.Build.0 = Debug|Win32
+		{BC6CB7A1-C48F-4FAB-BA26-68869423E560}.Release|x64.ActiveCfg = Release|x64
+		{BC6CB7A1-C48F-4FAB-BA26-68869423E560}.Release|x64.Build.0 = Release|x64
+		{BC6CB7A1-C48F-4FAB-BA26-68869423E560}.Release|x86.ActiveCfg = Release|Win32
+		{BC6CB7A1-C48F-4FAB-BA26-68869423E560}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39699261-BABF-4054-A54D-31A975A9DE73}
+	EndGlobalSection
+EndGlobal
