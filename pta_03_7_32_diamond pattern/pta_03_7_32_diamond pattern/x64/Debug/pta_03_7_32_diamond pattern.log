@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_32_diamond pattern\pta_03_7_32_diamond pattern\test.c(9,6): warning C4101: “x”: 未引用的局部变量
+  pta_03_7_32_diamond pattern.vcxproj -> C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_32_diamond pattern\x64\Debug\pta_03_7_32_diamond pattern.exe
