@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_30_print an hourglass\pta_03_7_30_print an hourglass\test.c(10,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_30_print an hourglass\pta_03_7_30_print an hourglass\test.c(11,6): warning C4101: “x”: 未引用的局部变量
+  pta_03_7_30_print an hourglass.vcxproj -> C:\Users\wrrtx\Documents\source\repos\question\pta\pta_03_7_30_print an hourglass\x64\Debug\pta_03_7_30_print an hourglass.exe
