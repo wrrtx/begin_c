@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pta_05_6_14_输出指定范围内的完数", "pta_05_6_14_输出指定范围内的完数\pta_05_6_14_输出指定范围内的完数.vcxproj", "{35962693-6D06-4E9C-93C7-25785CD60E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35962693-6D06-4E9C-93C7-25785CD60E3E}.Debug|x64.ActiveCfg = Debug|x64
+		{35962693-6D06-4E9C-93C7-25785CD60E3E}.Debug|x64.Build.0 = Debug|x64
+		{35962693-6D06-4E9C-93C7-25785CD60E3E}.Debug|x86.ActiveCfg = Debug|Win32
+		{35962693-6D06-4E9C-93C7-25785CD60E3E}.Debug|x86.Build.0 = Debug|Win32
+		{35962693-6D06-4E9C-93C7-25785CD60E3E}.Release|x64.ActiveCfg = Release|x64
+		{35962693-6D06-4E9C-93C7-25785CD60E3E}.Release|x64.Build.0 = Release|x64
+		{35962693-6D06-4E9C-93C7-25785CD60E3E}.Release|x86.ActiveCfg = Release|Win32
+		{35962693-6D06-4E9C-93C7-25785CD60E3E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F47DD58-B6BC-4BBF-B962-32B54947A9A3}
+	EndGlobalSection
+EndGlobal
